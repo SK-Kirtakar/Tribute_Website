@@ -75,3 +75,15 @@ footer {
 .footer p {
 	text-align: end;
 }
+.author {	
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 80px;
+}
+.author p {
+	margin-right: 5px;
+  text-transform: capitalize;
+	color: #1d1e4c;
+	font-weight: bold;
+	font-size: 20px;
+}
